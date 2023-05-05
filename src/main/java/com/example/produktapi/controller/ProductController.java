@@ -5,7 +5,6 @@ import org.springframework.web.bind.annotation.*;
 import com.example.produktapi.service.ProductService;
 import com.example.produktapi.model.Product;
 import java.util.List;
-
 @CrossOrigin
 @RestController
 public class ProductController {
