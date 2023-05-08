@@ -46,8 +46,5 @@ public class ValidateResponse {
                  .statusCode(200)
                  .contentType(ContentType.HTML);
 
-
-
-
     }
 }
